@@ -9,9 +9,11 @@
 
 #### Change the mode to "a" after the first run of the code since the csv file has been created to avoid loss of previous data.
 #### Csv file is created and stored in the current directory your terminal is in.
-![image](https://github.com/user-attachments/assets/7a8430d1-aeda-416c-9020-85d50548befb)
+![image](https://github.com/user-attachments/assets/164f3504-911b-472e-b661-0230e3be49a5)
+
 #### Append the new information into the csv file.
-![image](https://github.com/user-attachments/assets/b601624c-bd45-4535-8f1d-3ec0b8a085cc)
+![image](https://github.com/user-attachments/assets/addf564b-8ddd-4538-871a-fba8e2730656)
+
 
 
 
